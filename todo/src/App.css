@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+  background-color: rgb(255, 247, 247);
+  padding-bottom: 15px;
+}
+h1.ribbon {
+  font-size: 20px;
+  background: rgb(195, 185, 196);
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+}
